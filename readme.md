@@ -9,3 +9,9 @@ A simple Flask-based daily task manager that lets users:
 ## How to run
 ```bash
 python app.py
+
+Save and commit it:
+```bash
+git add README.md
+git commit -m "Add README"
+git push
