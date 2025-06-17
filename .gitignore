@@ -1,0 +1,12 @@
+touch .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.vscode/
+.idea/
+venv/
+tasks.json
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
